@@ -32,7 +32,7 @@
 </ul>  
 
 <br/>
-<p><img align="center" src="" alt="SOHAIB KHAN" width="100%" /></p>
+<p><img align="center" src="https://camo.githubusercontent.com/5f4b484cd77ff212cc47dc363eb4cd3b37c025c6e4528aa14f4bc319883a6e56/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6e6f6d616e697368617126" alt="SOHAIB KHAN" width="100%" /></p>
 
 <br/>
 <h3 align="left">Connect with me:</h3>
