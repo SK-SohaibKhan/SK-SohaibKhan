@@ -13,7 +13,7 @@
 - 🔭 I’m currently working 
 
 <br/><br/>
-<h2 align="left">Skills:<img align="right" src = "" width="32px"></h2>
+<h2 align="left">Skills:<img align="right" src = "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/267240489/original/c6848ff182cd225fa69562159e9b16b35708a9d6/create-simple-and-responsive-website-in-html-css-and-javascript.jpg" width="32px"></h2>
 
 
 
