@@ -6,7 +6,7 @@
 <h2> About Me </h2>
 
 
-<img width="55%" align="right" alt="" src="https://images.unsplash.com/photo-1534430071631-854ff55eec78?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1430&q=80" height="20%" />
+<img width="55%" align="right" alt="" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80" height="20%" />
 
 <br/>
 
