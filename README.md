@@ -23,11 +23,11 @@
 <li>JavaScript</li>
 <li>Bootstrap</li>
 <li>Jquery</li>
-<li>Css </li>
 <li>Angular.js</li>
 <li>Ul UX</li>
 <li>Node.js</li>
 <li>SEO</li>
+<li>Xml&Json<li>
 
 </ul>  
 
