@@ -26,6 +26,8 @@
 <li>Cs6</li>
 <li>Ul UX</li>
 <li>My Sql</li>
+ <li>PHP</li>
+ <li>.NET WEB APPLICATION</li>
 <li>SEO</li>
 <li>Xml&Json<li>
 <li>Web designer<li>
