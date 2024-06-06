@@ -3,7 +3,7 @@
 <p align="left">I am a dedicated Front End / Full Stack Web Developer with over 2 years of hands-on experience in crafting responsive, user-centric websites and web applications.</p>
 <br/>
 <h2>About Me</h2>
-<img width="55%" align="right" alt="Coding" src="[https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80](https://github.com/account)" height="20%" />
+<img width="55%" align="right" alt="Coding" src="https://media.licdn.com/dms/image/D4D35AQEn0NqiIEE-Lw/profile-framedphoto-shrink_200_200/0/1714431026467?e=1718287200&v=beta&t=qAvB1UAQ9UGM-QjQT4fK22CeLkCU1fGHrT5rYShWo4Q" height="20%" />
 <br/>
 🔭 I’m currently working on innovative web development projects that push the boundaries of what’s possible.
 🌱 Continuously learning and adapting to new technologies to improve my skill set and stay current in the field.
