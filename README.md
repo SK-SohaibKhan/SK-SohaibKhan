@@ -13,7 +13,7 @@
 - 🔭 I’m currently working 
 
 <br/><br/>
-<h2 align="left">Skills:<img align="right" src = "" width="32px"></h2>
+<h2 align="left">Skills:<img align="right" src = "https://www.google.com/imgres?q=skill%20image&imgurl=https%3A%2F%2Fwww.mckinsey.com%2F~%2Fmedia%2Fmckinsey%2Fmckinsey%2520quarterly%2Fthe%2520five%2520fifty%2Fsoft-skills-1536x1536.png&imgrefurl=https%3A%2F%2Fwww.mckinsey.com%2Ffeatured-insights%2Ffuture-of-work%2Ffive-fifty-soft-skills-for-a-hard-world&docid=MRVPqj6wyO-J4M&tbnid=7wiuA4Qj_u46xM&vet=12ahUKEwiz-tjBhceGAxVJQvEDHQrnE9UQM3oECGIQAA..i&w=1536&h=1536&hcb=2&ved=2ahUKEwiz-tjBhceGAxVJQvEDHQrnE9UQM3oECGIQAA" width="32px"></h2>
 <ul>
 <li>Html</li>
 <li>Css</li>
