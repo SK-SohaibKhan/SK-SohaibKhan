@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm Sohaib Khan</h1>
 <br/>
 
-<p align="left">I am a Front End / Full Stack Web Developer with 3+ years of experience building web Development.</p>
+<p align="left">I am a Front End / Full Stack Web Developer with 2+ years of experience.</p>
 <br/>
 <h2> About Me </h2>
 
@@ -13,22 +13,20 @@
 - 🔭 I’m currently working 
 
 <br/><br/>
-<h2 align="left">Skills:<img align="right" src = "https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="32px"></h2>
+<h2 align="left">Skills:<img align="right" src = "" width="32px"></h2>
 <ul>
 <li>Html</li>
 <li>Css</li>
 <li>JavaScript</li>
 <li>Bootstrap</li>
 <li>Jquery</li>
-<li>Cs6</li>
 <li>Ul UX</li>
 <li>My Sql</li>
- <li>PHP</li>
- <li>.NET WEB APPLICATION</li>
+<li>PHP</li>
+<li>.NET WEB APPLICATION</li>
 <li>SEO</li>
 <li>Xml&Json<li>
 </ul>  
-<br/>
 <p><img align="center" src="https://camo.githubusercontent.com/5f4b484cd77ff212cc47dc363eb4cd3b37c025c6e4528aa14f4bc319883a6e56/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6e6f6d616e697368617126" alt="SOHAIB KHAN" width="100%" /></p>
 
 <br/>
