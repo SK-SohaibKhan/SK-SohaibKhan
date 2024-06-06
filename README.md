@@ -26,7 +26,7 @@
   <li>XML & JSON</li>
 </ul>
 <br/>
-<p><img align="center" src="https://camo.githubusercontent.com/5f4b484cd77ff212cc47dc363eb4cd3b37c025c6e4528aa14f4bc319883a6e56/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6e6f6d616e697368617126" alt="Sohaib Khan's GitHub Stats" width="100%" /></p>
+<p><img align="center" src="[https://camo.githubusercontent.com/5f4b484cd77ff212cc47dc363eb4cd3b37c025c6e4528aa14f4bc319883a6e56/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6e6f6d616e697368617126](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fwhat-is-programming-tutorial-for-beginners%2F&psig=AOvVaw2cdshH71cq0tqI_1EwXeZN&ust=1717768340804000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiHkfCPx4YDFQAAAAAdAAAAABAE)" alt="Sohaib Khan's GitHub Stats" width="100%" /></p>
 <br/>
 <h3 align="left">Connect with me</h3>
 <p align="left">
